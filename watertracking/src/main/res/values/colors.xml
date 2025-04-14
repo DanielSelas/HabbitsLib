@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- צבעים ראשיים -->
+    <color name="color_primary">#0288D1</color>
+    <color name="color_primary_variant">#0277BD</color>
+    <color name="color_on_primary">#FFFFFF</color>
+
+    <!-- צבעים משניים -->
+    <color name="color_secondary">#4FC3F7</color>
+    <color name="color_secondary_variant">#29B6F6</color>
+    <color name="color_on_secondary">#FFFFFF</color>
+
+    <!-- רקע כללי -->
+    <color name="color_background">#E1F5FE</color>
+
+    <!-- טקסטים -->
+    <color name="text_color_primary">#01579B</color>
+    <color name="text_color_secondary">#4FC3F7</color>
+
+    <!-- רקע לכפתור Reset -->
+    <color name="button_reset_background">#B3E5FC</color>
+
+</resources>

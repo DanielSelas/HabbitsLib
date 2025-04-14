@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WaterTracking" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- צבעים ראשיים -->
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant</item>
+        <item name="colorOnPrimary">@color/color_on_primary</item>
+
+        <!-- צבעים משניים -->
+        <item name="colorSecondary">@color/color_secondary</item>
+        <item name="colorSecondaryVariant">@color/color_secondary_variant</item>
+        <item name="colorOnSecondary">@color/color_on_secondary</item>
+
+        <!-- חובה בשביל activity_main -->
+        <item name="android:colorBackground">@color/color_background</item>
+        <item name="android:textColorPrimary">@color/text_color_primary</item>
+    </style>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="progress_light_green">#A5D6A7</color>
+    <color name="progress_medium_green">#66BB6A</color>
+    <color name="progress_dark_green">#2E7D32</color>
+    <color name="blue_background">#B3E5FC</color>
+
+</resources>

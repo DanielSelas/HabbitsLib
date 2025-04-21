@@ -22,4 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "CommonLib"
 include(":smokingtracking")
 include(":watertracking")
-include(":Common")
+include(":MyCommon")

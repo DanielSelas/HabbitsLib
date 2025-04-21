@@ -34,7 +34,7 @@ android {
 dependencies {
 
 
-    implementation(project(":Common"))
+    implementation(project(":MyCommon"))
     implementation (libs.lottie)
 
     implementation(libs.appcompat)
